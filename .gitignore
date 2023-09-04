@@ -1,6 +1,3 @@
-# Ignore .pdfs
-*.pdf
-
 # Tex Generated Files
 *.aux
 *.log
